@@ -17,9 +17,9 @@ In order to create a docker image for the client:
 ```docker build -f Dockerfile -t client .``` 
 in orderto create a docker image for the client.
 - Execute the docker by the command to run the client docker
-- ```docker run -it -p 4001:3000 client```
+ ```docker run -it -p 4001:3000 client```
 - Access the directory under node-js
-- Execute the followng command "docker build -f Dockerfile -t server ." to create a docker image for the server.
+- Execute the followng command to create a docker image for the server.
 ```docker build -f Dockerfile -t server .```
 - Execute the following command to run the server docker
-``` odocker run -it -p 4002:3001 server
+``` odocker run -it -p 4002:3001 server```
