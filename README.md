@@ -24,7 +24,7 @@ in orderto create a docker image for the client.
 - Execute the following command to run the server docker
 ``` odocker run -it -p 4002:3001 server```
 
-You can download the docker images of each of the client and server applications under the following docker hub repositories:
+**You can download the docker images of each of the client and server applications under the following docker hub repositories:**
 - https://hub.docker.com/repository/docker/farahprojects/server
 - https://hub.docker.com/repository/docker/farahprojects/client
 
