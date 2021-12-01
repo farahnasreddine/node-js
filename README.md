@@ -2,7 +2,7 @@
 In order to setup the project:
 - Download the repository content and place it under a project directory called "node-js"
 - Access the node-js directory and run the following command
- ```npm Install```
+ ```npm init```
 - Access the node-js/client directory and run the command 
  ```npm start```
 - The client is now accessible over localhost:3000
